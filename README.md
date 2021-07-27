@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/14E7YnlApD5-0Fy3CTTfXL5q0vR1yBIP2?usp=sha
 
 ## Pipeline
 - Step 1: Reading camera calibration file to get:
-  ➢ Left Intrinsic & Right Intrinsic matrix
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➢ Left Intrinsic & Right Intrinsic matrix
   ➢ Left Extrinsic & Right Extrinsic matrix
   ➢ Fundamental Matrix
 
