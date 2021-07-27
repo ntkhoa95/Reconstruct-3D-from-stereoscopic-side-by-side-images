@@ -21,6 +21,7 @@ camera based on:
   <h3 align="center">𝐾: 𝐼𝑛𝑡𝑟𝑖𝑛𝑠𝑖𝑐 𝑚𝑎𝑡𝑟𝑖𝑥</h3>
   <h3 align="center">[𝑅|𝑡]: 𝐸𝑥𝑡𝑟𝑖𝑛𝑠𝑖𝑐 𝑚𝑎𝑡𝑟𝑖𝑥</h3>
 </h3>
+
 - Step 3: Estimating 3D points using Direct Triangulation method:
 ➢ Gradually reading input image (2560x720) and separating into left and 
 right image (1280x720)
