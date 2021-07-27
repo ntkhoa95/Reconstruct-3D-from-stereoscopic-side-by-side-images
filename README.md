@@ -9,10 +9,7 @@ Program for reconstructing 3D points from stereoscopic images and output a 3D xy
 https://drive.google.com/drive/folders/14E7YnlApD5-0Fy3CTTfXL5q0vR1yBIP2?usp=sharing
 
 ## Pipeline
-- Step 1: Reading camera calibration file to get:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➢ Left Intrinsic & Right Intrinsic matrix
-  ➢ Left Extrinsic & Right Extrinsic matrix
-  ➢ Fundamental Matrix
+- Step 1: Reading camera calibration file to get:\➢ Left Intrinsic & Right Intrinsic matrix\➢ Left Extrinsic & Right Extrinsic matrix\➢ Fundamental Matrix
 
 - Step 2: Calculating Projection matrix P1 of Left camera and P2 of Right 
 camera based on:
