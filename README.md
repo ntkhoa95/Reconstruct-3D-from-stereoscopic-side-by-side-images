@@ -23,11 +23,11 @@ camera based on:
 </h3>
 
 - Step 3: Estimating 3D points using Direct Triangulation method:
-<h3 align="left">➢ Gradually reading input image (2560x720) and separating into left and right image (1280x720)</h3>
-<h3 align="left">➢ Picking the brightest pixel in each row by using a defined threshold to filter pixel values on one channel among R, G, B channels</h3>
-<h3 align="left">➢ Scanning through list of filtered pixels in Left image and finding corresponding epipolar line in Right image based on Fundamental matrix</h3>
-<h3 align="left">➢ Scanning through list of filtered pixels in Right image and getting corresponding point after removing possible outliers based on ax + by +c ≈ 0 ([x, y]: coordinate of 2D points)</h3>
-<h3 align="left">➢ Using 3D estimation Direct Triangulation method and solving the result by SVD to get the 3D points</h3>
+<h3 align="left">###➢ Gradually reading input image (2560x720) and separating into left and right image (1280x720)</h3>
+<h3 align="left">###➢ Picking the brightest pixel in each row by using a defined threshold to filter pixel values on one channel among R, G, B channels</h3>
+<h3 align="left">###➢ Scanning through list of filtered pixels in Left image and finding corresponding epipolar line in Right image based on Fundamental matrix</h3>
+<h3 align="left">###➢ Scanning through list of filtered pixels in Right image and getting corresponding point after removing possible outliers based on ax + by +c ≈ 0 ([x, y]: coordinate of 2D points)</h3>
+<h3 align="left">###➢ Using 3D estimation Direct Triangulation method and solving the result by SVD to get the 3D points</h3>
 
 - Step 4: Exporting to XYZ file “3D.xyz” file with format [X Y Z]
 
