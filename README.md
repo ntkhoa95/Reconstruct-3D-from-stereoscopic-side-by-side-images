@@ -1,5 +1,5 @@
 <h3 align="center">
-  Reconstruct 3D from stereoscopic Side by side images
+  Reconstruct 3D from stereoscopic side by side images
 </h3>
 
 ## Content
