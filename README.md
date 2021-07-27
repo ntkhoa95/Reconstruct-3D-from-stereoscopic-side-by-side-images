@@ -23,8 +23,7 @@ camera based on:
 </h3>
 
 - Step 3: Estimating 3D points using Direct Triangulation method:
-➢ Gradually reading input image (2560x720) and separating into left and 
-right image (1280x720)
+<h3 align="left">➢ Gradually reading input image (2560x720) and separating into left and right image (1280x720)</h3>
 ➢ Picking the brightest pixel in each row by using a defined threshold to 
 filter pixel values on one channel among R, G, B channels
 ➢ Scanning through list of filtered pixels in Left image and finding 
