@@ -1,5 +1,3 @@
-# Reconstruct_3D_from_stereoscopic_side-by-side_images
-
 <h3 align="center">
   Reconstruct 3D from stereoscopic Side by side images
 </h3>
