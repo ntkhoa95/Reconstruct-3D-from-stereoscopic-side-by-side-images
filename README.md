@@ -17,8 +17,8 @@ https://drive.google.com/drive/folders/14E7YnlApD5-0Fy3CTTfXL5q0vR1yBIP2?usp=sha
 - Step 2: Calculating Projection matrix P1 of Left camera and P2 of Right 
 camera based on:
 <h3 align="center">
-  𝑷 = 𝑲[𝑹|𝒕]
-  𝐾: 𝐼𝑛𝑡𝑟𝑖𝑛𝑠𝑖𝑐 𝑚𝑎𝑡𝑟𝑖𝑥
+  𝑷 = 𝑲[𝑹|𝒕]\n
+  𝐾: 𝐼𝑛𝑡𝑟𝑖𝑛𝑠𝑖𝑐 𝑚𝑎𝑡𝑟𝑖𝑥\n
   [𝑅|𝑡]: 𝐸𝑥𝑡𝑟𝑖𝑛𝑠𝑖𝑐 𝑚𝑎𝑡𝑟𝑖𝑥
 </h3>
 - Step 3: Estimating 3D points using Direct Triangulation method:
